@@ -1,0 +1,9 @@
+authtoken: K6yiCfx1m4ba2UcWsy9N_3aenzwVCG8gNyKdcYPs1i
+
+tunnels:
+  wx_test:
+    proto: http
+    addr: 80
+  mqtt_test:
+    proto: tcp
+    addr: 1883
